@@ -1,0 +1,2 @@
+recursive-include tutorwebhooks/patches *
+recursive-include tutorwebhooks/templates *
