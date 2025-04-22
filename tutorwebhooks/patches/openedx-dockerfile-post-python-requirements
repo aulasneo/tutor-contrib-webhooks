@@ -1,0 +1,2 @@
+RUN --mount=type=cache,target=/openedx/.cache/pip,sharing=shared \
+    pip install "openedx-webhooks{{ WEBHOOKS_PLUGIN_VERSION }}"
