@@ -1,4 +1,5 @@
 .*.swp
+.idea
 !.gitignore
 TODO
 __pycache__

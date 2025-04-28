@@ -13,7 +13,7 @@ from .__about__ import __version__
 hooks.Filters.CONFIG_DEFAULTS.add_items(
     [
         ("WEBHOOKS_VERSION", __version__),
-        ("WEBHOOKS_PLUGIN_VERSION", ">=18.0.0,<19.0.0"),
+        ("WEBHOOKS_PLUGIN_VERSION", ">=19.0.0,<20.0.0"),
     ]
 )
 
