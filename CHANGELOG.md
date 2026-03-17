@@ -1,6 +1,6 @@
 # Change log
 
-## Unreleased
+## Version 20.0.0 (2026-03-17)
 - chore: Upgrade Tutor compatibility to Teak (`>=20.0.0,<21.0.0`).
 - fix: Pin `openedx-webhooks==20.0.0` from the package version to avoid version drift.
 - ci: Add a wheel install and plugin import smoke test.
