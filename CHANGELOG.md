@@ -1,5 +1,12 @@
 # Change log
 
+## Unreleased
+- feat: add local development automation with a branding-aligned `Makefile` and pinned dev requirements
+- feat: replace legacy CI with branding-style GitHub Actions test and publish workflows
+- ref: simplify `pyproject.toml` packaging metadata for modern hatch builds
+- breaking: require Python 3.11 or newer
+- chore: ignore generated Tutor `config.yml` and `env/` artifacts from local test runs
+
 ## Version 20.0.0 (2026-03-17)
 - chore: Upgrade Tutor compatibility to Teak (`>=20.0.0,<21.0.0`).
 - fix: Pin `openedx-webhooks==20.0.0` from the package version to avoid version drift.
