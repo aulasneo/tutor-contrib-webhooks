@@ -6,6 +6,8 @@
 - ref: simplify `pyproject.toml` packaging metadata for modern hatch builds
 - breaking: require Python 3.11 or newer
 - chore: ignore generated Tutor `config.yml` and `env/` artifacts from local test runs
+- chore: Upgrade Tutor compatibility to Ulmo (`>=21.0.0,<22.0.0`).
+- chore: Refresh development requirements to `tutor==21.0.2`.
 
 ## Version 20.0.0 (2026-03-17)
 - chore: Upgrade Tutor compatibility to Teak (`>=20.0.0,<21.0.0`).

@@ -36,7 +36,7 @@ and restart the containers. No other configuration is needed.
 How it works
 ************
 
-This Tutor plugin will just add the `openedx-webhooks <https://pypi.org/project/openedx-webhooks/>`_
+This Tutor plugin adds the `openedx-webhooks <https://pypi.org/project/openedx-webhooks/>`_
 module to the list of dependencies of Open edX.
 
 To learn more please refer to the `source code <https://github.com/aulasneo/openedx-webhooks>`_ of openedx-webhooks.
