@@ -1,0 +1,14 @@
+tutorwebhooks/patches/openedx-dockerfile-post-python-requirements
+  h_67430f944e00e2 2-3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "74406984a8d4090b216c8ca310e28c45d020a781",
+  "prompts": {},
+  "humans": {
+    "h_67430f944e00e2": {
+      "author": "Andrés González <andres@aulasneo.com>"
+    }
+  }
+}
