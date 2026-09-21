@@ -1,6 +1,6 @@
 # Change log
 
-## Unreleased
+## Version 21.0.1 (2026-09-21)
 - fix: bump backend version
 
 ## Version 21.0.0 (2026-04-21)
