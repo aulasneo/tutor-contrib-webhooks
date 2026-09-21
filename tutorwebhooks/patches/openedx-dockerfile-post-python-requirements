@@ -1,2 +1,3 @@
 RUN --mount=type=cache,target=/openedx/.cache/pip,sharing=shared \
-    pip install "openedx-webhooks{{ WEBHOOKS_PLUGIN_VERSION }}"
+#    pip install "openedx-webhooks{{ WEBHOOKS_PLUGIN_VERSION }}"
+    pip install "git+github.com/aulasneo/openedx-webhooks@d97d5dda09e6062d126439497a7ded060a61f6e2"
