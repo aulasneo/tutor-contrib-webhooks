@@ -1,5 +1,9 @@
 # Change log
 
+## Unreleased
+
+- feat: Upgrade to Verawood
+
 ## Version 21.0.1 (2026-09-21)
 - fix: bump backend version
 
