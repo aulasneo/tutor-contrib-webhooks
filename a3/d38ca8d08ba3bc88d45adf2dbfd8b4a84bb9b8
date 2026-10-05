@@ -1,0 +1,18 @@
+.bumpversion.cfg
+  h_67430f944e00e2 5
+CHANGELOG.md
+  h_67430f944e00e2 3
+tutorwebhooks/__about__.py
+  h_67430f944e00e2 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a3d38ca8d08ba3bc88d45adf2dbfd8b4a84bb9b8",
+  "prompts": {},
+  "humans": {
+    "h_67430f944e00e2": {
+      "author": "Andrés González <andres@aulasneo.com>"
+    }
+  }
+}
