@@ -1,6 +1,6 @@
 # Change log
 
-## Unreleased
+## Version 22.1.0 (2026-10-28)
 
 - feat: Upgrade backend to 22.1.0
 
