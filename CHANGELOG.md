@@ -1,5 +1,9 @@
 # Change log
 
+## Unreleased
+
+- feat: Upgrade backend to 22.1.0
+
 ## Version 22.0.0 (2026-10-05)
 
 - feat: Upgrade to Verawood
