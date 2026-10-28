@@ -1,0 +1,14 @@
+CHANGELOG.md
+  h_67430f944e00e2 3-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8488da08ded6a520c0d2638109c45dfb0717ffe1",
+  "prompts": {},
+  "humans": {
+    "h_67430f944e00e2": {
+      "author": "Andrés González <andres@aulasneo.com>"
+    }
+  }
+}
